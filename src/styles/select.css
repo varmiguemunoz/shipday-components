@@ -1,3 +1,18 @@
 .select-container-custom {
-background-color: red;
+width: 376px;
+height: 44px;
+padding: 10px 14px 10px 14px;
+border-radius: 8px;
+border: 1px solid #D0D5DD;
+}
+
+.select-option-text-custom {
+overflow: hidden;
+color:  #667085;
+text-overflow: ellipsis;
+font-family: Graphik;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
 }
