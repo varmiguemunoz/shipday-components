@@ -1,8 +1,23 @@
-.select-container-custom {
+.div-container-select-custom {
+display:flex;
+align-items:center;
+justify-content:center;
 width: 376px;
 height: 44px;
+}
+
+.image-select-container-custom {
+position: relative;
+right: 30px;
+
+}
+
+.select-container-custom {
+width: 100%;
+height: 100%;
 padding: 10px 14px 10px 14px;
 border-radius: 8px;
+appearance: none;
 border: 1px solid #D0D5DD;
 }
 
